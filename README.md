@@ -43,3 +43,24 @@ optional arguments:
   --num_repeats NUM_REPEATS
                         Number of times to carry out repeated MSTTR.
 ```
+## Supported languages
+In principle, any language for which you have a Punkt tokenizer model. Here's a list of the languages supported by the NLTK out of the box:
+
+* czech
+* danish
+* dutch
+* english
+* estonian
+* finnish
+* french
+* german
+* greek
+* italian
+* norwegian
+* polish
+* portuguese
+* russian
+* slovene
+* spanish
+* swedish
+* turkish
